@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Code Section</string>
+    <string name="newfile">New</string>
+    <string name="open">Open</string>
+    <string name="save_as">Save as...</string>
+    <string name="close">Close</string>
+    <string name="multi_auto_complete">Multi AutoComplete</string>
+    <string-array name="list_of_countries">
+    <item >public</item>
+    <item >void</item>
+    <item >class</item>
+    <item >System</item>
+    <item >short</item>
+    <item >long</item>
+    <item >boolean</item>
+    <item >character</item>
+    <item >integer</item>
+    </string-array>
+    <string name="read">load from internal storage</string>
+    <string name="save">save to internal storage</string>
+    <string name="aaaa1">
+        <![CDATA[ public class Newclass{\n\n}
+        ]]></string>
+
+</resources>

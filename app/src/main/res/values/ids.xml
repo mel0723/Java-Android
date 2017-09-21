@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="app_name" type="id">false</item>
+    <item name="newfile" type="id">false</item>
+    <item name="save_as" type="id">false</item>
+    <item name="close" type="id">false</item>
+    <item name="open" type="id">false</item>
+    <item name="editText1" type="id" />
+</resources>
