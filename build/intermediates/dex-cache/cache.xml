@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\melissa arellano\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\melissa arellano\AndroidStudioProjects\CodeSection\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_76b1087c1448d8d0226725aa972f871c4a0d15e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\melissa arellano\.android\build-cache\f255431f2bd811ae0a2eca54d884e33276f3ad36\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\melissa arellano\AndroidStudioProjects\CodeSection\app\build\intermediates\pre-dexed\debug\classes_9f751dc68dd2ea81e335ba18f24fbfb51cfb9883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\melissa arellano\.android\build-cache\0fb85d67f2cff4795526aa60d810aa8309a707a0\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\melissa arellano\AndroidStudioProjects\CodeSection\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_2d1f3573adc34de543dda7978ae1469882205207.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\melissa arellano\.android\build-cache\ed457ba461be0feb28aeb69f8a243f026ea29d49\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\melissa arellano\AndroidStudioProjects\CodeSection\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_74fdb21760a6e54500d74cac838c623d47e7e1d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\melissa arellano\.android\build-cache\940c0aac62cb3da2160b5af788209f6bb3f36569\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\melissa arellano\AndroidStudioProjects\CodeSection\app\build\intermediates\pre-dexed\debug\classes_83ef14e596a24abf9ff8c348fafc244e16801a74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\melissa arellano\.android\build-cache\3219505b1f0fd9777f750866db1089557e7d9bb3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\melissa arellano\AndroidStudioProjects\CodeSection\app\build\intermediates\pre-dexed\debug\classes_10f935bdfbbc119f1438619c5d7615fb1bc518f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\melissa arellano\.android\build-cache\a2abeb79c30aa4a8072a23c51c63755cff20196e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\melissa arellano\AndroidStudioProjects\CodeSection\app\build\intermediates\pre-dexed\debug\classes_ab9591c3f3f5eae86226f88ff00c0eac42a58c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\melissa arellano\.android\build-cache\f255431f2bd811ae0a2eca54d884e33276f3ad36\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\melissa arellano\AndroidStudioProjects\CodeSection\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_4dfbd9f0d7e25d5d706a81d028fcb619c32abfcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\melissa arellano\.android\build-cache\17b13efab0052490ecc4d541abe46475fc39f905\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\melissa arellano\AndroidStudioProjects\CodeSection\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_4527163b0cf02552a37e2458f690aee584a886e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\melissa arellano\.android\build-cache\75272e8149921116b9337090bb670d0c14820458\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\melissa arellano\AndroidStudioProjects\CodeSection\app\build\intermediates\pre-dexed\debug\classes_4dcca0734d40e257555b463a04655d52c0131846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\melissa arellano\.android\build-cache\0fb85d67f2cff4795526aa60d810aa8309a707a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\melissa arellano\AndroidStudioProjects\CodeSection\app\build\intermediates\pre-dexed\debug\classes_87505227ba2cfce01d45310f0b053ca349d29ffc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\melissa arellano\.android\build-cache\89a055194ebd9c276ea7013db4bd869eb0c6994c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\melissa arellano\AndroidStudioProjects\CodeSection\app\build\intermediates\pre-dexed\debug\classes_fa124f57a567af180923a78332907edb5c7901d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\melissa arellano\.android\build-cache\89a055194ebd9c276ea7013db4bd869eb0c6994c\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\melissa arellano\AndroidStudioProjects\CodeSection\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_2f8102ebb57587dc3e66a0aba4f04fce6bb6da99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\melissa arellano\.android\build-cache\17b13efab0052490ecc4d541abe46475fc39f905\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\melissa arellano\AndroidStudioProjects\CodeSection\app\build\intermediates\pre-dexed\debug\classes_eaf475c1a3ca2a1280e3ca2cf0065bdabc72d46e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\melissa arellano\.android\build-cache\ed457ba461be0feb28aeb69f8a243f026ea29d49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\melissa arellano\AndroidStudioProjects\CodeSection\app\build\intermediates\pre-dexed\debug\classes_5e6bda432972fb5a0a0155ec1eee8c0e535964e8.jar" />
+    </item>
+
+</items>
